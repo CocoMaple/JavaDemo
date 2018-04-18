@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo01/Demo01.iml" filepath="$PROJECT_DIR$/Demo01/Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo02/Demo02.iml" filepath="$PROJECT_DIR$/Demo02/Demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo03_test_hbibernate/Demo03_test_hbibernate.iml" filepath="$PROJECT_DIR$/Demo03_test_hbibernate/Demo03_test_hbibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo04_test_hibernate/Demo04_test_hibernate.iml" filepath="$PROJECT_DIR$/Demo04_test_hibernate/Demo04_test_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo05_test_hbibernate/Demo05_test_hbibernate.iml" filepath="$PROJECT_DIR$/Demo05_test_hbibernate/Demo05_test_hbibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo06_test_hbibernate/Demo06_test_hbibernate.iml" filepath="$PROJECT_DIR$/Demo06_test_hbibernate/Demo06_test_hbibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo07_test_hbibernate/Demo07_test_hbibernate.iml" filepath="$PROJECT_DIR$/Demo07_test_hbibernate/Demo07_test_hbibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jsp/Jsp.iml" filepath="$PROJECT_DIR$/Jsp/Jsp.iml" />
+    </modules>
+  </component>
+</project>
